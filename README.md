@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @potchakik
+- 👋 Hi, I’m @devDansuy
 - 👀 I’m interested in ...
 Computers, 
 Web Dev,
