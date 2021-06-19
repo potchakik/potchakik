@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @devDansuy
-- 
+
 - 👀 I’m interested in ...
-Computers, 
-Web Dev,
-Programming
+-Computers, 
+-Web Dev,
+-Programming
 
 - 🌱 I’m currently learning ...
-django, sql, linux
+ django, sql, linux
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
