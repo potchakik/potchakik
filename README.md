@@ -8,8 +8,7 @@ Programming
 - 🌱 I’m currently learning ...
 React, Nodejs and Python
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 potchakik/potchakik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
