@@ -6,7 +6,7 @@ Web Dev,
 Programming
 
 - 🌱 I’m currently learning ...
-React and java
+blockchain and nodejs
 
 
 
